@@ -1,0 +1,1 @@
+#define         bip         PORTDbits.RD2
